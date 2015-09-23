@@ -10,7 +10,7 @@ public class Account {
 	}
 
 	public int getSaldo() {
-		return 20;
+		return this.saldo;
 	}
 
 	public void setSaldo(int saldo) {
